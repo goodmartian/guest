@@ -3,9 +3,8 @@
 I'm a Full-Stack Developer working in Khujand, Tajikistan.
 
 **BIO**
-* 🌱 I’m currently learning Laravel and Flutter
-* 🌎 Learning all about Open Source
-* 💬 Ping me about design, branding, laravel, development, design thinking
+* 🌱 I’m currently studying and working with Laravel and Dart/Flutter
+* 💬 Ping me about design, laravel and app development
 * 📫 Reach me: [Telegram](https://t.me/badmartian)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=goodmartian&show_icons=tru)
